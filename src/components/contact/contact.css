@@ -1,5 +1,5 @@
-.contact{
-    margin-top: 4rem !important;
+.contact__section-subtitle{
+    margin-bottom: var(--mb-2);
 }
 
 .contact__container{
@@ -76,8 +76,8 @@
 
 .contact__form-div{
     position: relative;
-    margin-bottom: var(--mb-2);
-    height: 4rem;   
+    margin-bottom: 1.05rem;
+    height: 3rem;   
 }
 
 .contact__form-input{
@@ -91,7 +91,7 @@
     color: var(--text-color);
     outline: none;
     border-radius: 0.75rem;
-    padding: 1.5rem;
+    padding: 1.2rem;
     z-index: 1;
 }
 
@@ -106,7 +106,7 @@
 }
 
 .contact__form-area{
-    height: 11rem;
+    height: 7.5rem;
 }
 
 .contact__form-area textarea{
