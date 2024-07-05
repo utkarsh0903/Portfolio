@@ -73,7 +73,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">B.Sc(H) Computer Science</h3>
                 <span className="qualification__subtitle">Delhi University</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2017 - 2022
+                  <i className="uil uil-calendar-alt"></i> 2017 - 2020
                 </div>
               </div>
             </div>
@@ -123,7 +123,7 @@ const Qualification = () => {
                   ROI Bundle{" "}
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 - 2024
+                  <i className="uil uil-calendar-alt"></i> Sep 2023 - April 2024
                 </div>
               </div>
 
@@ -147,7 +147,7 @@ const Qualification = () => {
                   Bharati Vidyapeeth
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> March 2022 - April 2022
+                  <i className="uil uil-calendar-alt"></i> March 2022 - June 2022
                 </div>
               </div>
             </div>
