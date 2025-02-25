@@ -15,7 +15,7 @@ const About = () => {
           <Info />
           <p className="about__description">
             Frontend Developer, I create web pages with UI / UX interface. I
-            have 7 months of hands-on experience and I am passionate about
+            have 8 months of hands-on experience and I am passionate about
             crafting user centric designs that enhance usablity and
             functionality.
           </p>

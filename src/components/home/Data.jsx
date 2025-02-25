@@ -55,10 +55,10 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Frontend Developer</h3>
+      <h3 className="home__subtitle">Fullstack Developer</h3>
       <p className="home__description">
-        I'm creative developer based in New Delhi, and I'm very passionate and
-        dedicated to my work.
+        I am a passionate and dedicated developer based in New Delhi, committed
+        to creating innovative and high-quality solutions.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
